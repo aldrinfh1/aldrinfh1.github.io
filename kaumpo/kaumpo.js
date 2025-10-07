@@ -1,3 +1,4 @@
+// AI NGERI YA.....
 // --- AREA PENGATURAN TUGAS ---
     // Ubah, tambah, atau hapus tugas Anda di dalam daftar di bawah ini.
     // Format Tanggal: "Bulan Hari, Tahun Jam:Menit:Detik" (Bulan dalam Bahasa Inggris)
