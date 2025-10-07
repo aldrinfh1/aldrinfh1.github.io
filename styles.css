@@ -27,6 +27,7 @@ body {
             transition: transform 0.2s;
             cursor: pointer;
             transition-duration: 0.4s;
+            margin-bottom: 10px;
         }
 
         .btn1:hover {
