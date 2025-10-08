@@ -76,12 +76,12 @@ body {
             border: 5px solid #3498db;
         }
         .task-card.overdue {
-            border-left-color: #e74c3c;
-            background-color: #fbecec;
+            border-left-color: #27ae60;
+            background-color: #ecfbec;
         }
         .task-card.overdue:hover {
             border-style: solid;
-            border-color: #e74c3c;
+            border-color: #27ae60;
 
         }
         .task-card.soon {
@@ -152,7 +152,7 @@ body {
             margin-top: 20px;
         }
         .message.overdue-msg {
-            color: #c0392b;
+            color: #27ae60;
         }
         .message.completed-msg {
             color: #27ae60;
