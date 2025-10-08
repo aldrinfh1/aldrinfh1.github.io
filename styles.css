@@ -1,5 +1,5 @@
 body {
-            font-family: 'Poppins', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #f0f2f5;
             color: #333;
             margin: 0;
@@ -27,7 +27,6 @@ body {
             transition: transform 0.2s;
             cursor: pointer;
             transition-duration: 0.4s;
-            margin-bottom: 10px;
         }
 
         .btn1:hover {
