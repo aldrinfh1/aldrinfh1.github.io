@@ -4,7 +4,7 @@
                const tasks = [
         {
             title: "Agama Islam :<br> Me-resume kajian",
-            description: "<p style=text-align:;><b>5 Oktober 2025, pukul 17.00 WIB.</p>",
+            description: "<br><br> <p style=text-align:;><b>5 Oktober 2025, pukul 17.00 WIB.</p>",
             deadline: "Oct 5, 2025 17:00:00"
         },
         {
@@ -69,7 +69,7 @@
 
             if (distance < 0) {
                 // Jika waktu sudah habis
-                countdownWrapper.innerHTML = `<div class="message overdue-msg">Tugas Selasai!</div>`;
+                countdownWrapper.innerHTML = `<div class="message overdue-msg"> ✓ Tugas Selasai </div>`;
                 card.classList.add('overdue');
             } else {
                 // Jika masih ada waktu
