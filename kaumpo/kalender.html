@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Countdown Kalender Akademik</title>
-    <link rel="stylesheet" href="kaumpo.css">
+    <link rel="stylesheet" href="/styles.css">
     <meta property="og:title" content="Countdown Kalender Akademik">
     <meta property="og:description" content="Pantau semua deadline dan jadwal penting Kalender Akademik di sini.">
     <meta property="og:image" content="https://aldrinfh1.github.io/kaumpo/kaumpo.jpg">
@@ -16,13 +16,16 @@
 
 </head>
 <body>
+    <header class="headerori">
+        <div class="btn">
+            <button class="btn1" onclick="document.location='/'">Home</button>
+            <button class="btn1" id="daftartugas" onclick="document.location='history/history'">Kalender</button>
+            <button class="btn1" onclick="document.location='./riwayatkegiatan'">Riwayat</button>
+        </div>
+    </header>
+<div class="realbody"> 
+    <div class="header1">
 
-    <div class="header">
-        <h1> Uji Coba Kalender Akademik</h1>
-        <h3>25aPPKn</h3>
-        <p>Update 0.001.r7</p>
-        <button class="btn1" onclick="document.location='./riwayatkegiatan'">ⴵ Riwayat Kegiatan</button>
-        <button class="btn1" onclick="document.location='https://lichess.org/id'">♙ Catur</button>
     </div>
 
     <div class="task-container">
@@ -31,5 +34,9 @@
     <script src="kaumpo.js" >
  
     </script>
+</div>
+    <footer class="ftr">
+        <p class="ftrtext">Update 0.002.r1 oleh 25aPPKn</p>
+    </footer>
 </body>
 </html>
