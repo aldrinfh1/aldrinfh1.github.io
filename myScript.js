@@ -13,6 +13,12 @@
             deadline: "Oct 27, 2025 07:29:59"
         },
         {
+            title: "Ilmu Negara :<br> Book Chapter / Artikel",
+            description: "Membuat book chapter atau Artikel+jurnal, Makalah+Video.<p style=text-align:;><b> 8 Oktober 2025 </p>",
+            deadline: "Nov 6, 2025 08:59:59"
+        },
+    
+        {
             title: "Pendidikan Ilmu Sosial :<br> Latar Belakang & Rumusan",
             description: "Membuat latar belakang dan rumusan dari judul yang sudah ditentukan.<p style=text-align:;><b> 19 November 2025 </p>",
             deadline: "Nov 19, 2025 12:30:59"
