@@ -2,14 +2,20 @@
     // Ubah, tambah, atau hapus tugas Anda di dalam daftar di bawah ini.
     // Format Tanggal: "Bulan Hari, Tahun Jam:Menit:Detik" (Bulan dalam Bahasa Inggris)
                const tasks = [
+        
+        {
+            title: "Pancasila :<br> Analisis Sederhana",
+            description: "Menghasilkan Presentasi. <br><br> <p style=text-align:;><b> 16 Oktober 2025 </p>",
+            deadline: "Oct 16, 2025 06:49:59"       
+        },
         {
             title: "Pendidikan Karakter:<br> Membuat Poster",
-            description: "<p style=text-align:;><b>19 Oktober 2025</p>",
+            description: "Merangkum dan dibuat Poster <br><br> <p style=text-align:;><b>19 Oktober 2025</p>",
             deadline: "Oct 19, 2025 08:29:59" // Countdown diatur ke tanggal terdekat
         },
         {
-            title: "Presentasi Pengantar Pendidikan",
-            description: "<p style=text-align:;><b>27 Oktober 2025</p>",
+            title: "Pengantar Pendidikan: Membuat Presentasi",
+            description: "Mempresentasikan buku Pengantar Pendidikan. <br> <p style=text-align:;><b>27 Oktober 2025</p>",
             deadline: "Oct 27, 2025 07:29:59"
         },
         {
@@ -25,7 +31,7 @@
         },
         {
             title: "Ilmu Politik :<br> Membuat Poster",
-            description: "Tugas pertama dari mata kuliah Ilmu Politik.<p style=text-align:;><b> 29 Oktober 2025 </p>",
+            description: "Poster membahas isu/problematika yang relevan dengan konsep teoritis ilmu politik.<p style=text-align:;><b> 29 Oktober 2025 </p>",
             deadline: "Oct 29, 2025 09:19:59"
         },
         {
@@ -41,10 +47,11 @@
         {
             title: "Pancasila :<br> Riset Sederhana",
             description: "Menghasilkan laporan singkat 5 halaman dan produk kreatif. <p style=text-align:;><b> 18 Desember 2025 </p>",
-            deadline: "Dec 18, 2025 06:49:59"       },
+            deadline: "Dec 18, 2025 06:49:59"       
+        },
         {
             title: "Teori Pembelajaran :<br> Merangkum & Poster",
-            description: "Deadline bertahap: 16, 23, & 30 Oktober. Countdown menuju deadline pertama. ",
+            description: "Deadline bertahap: 16, 23, & 30 Oktober. Countdown menuju deadline pertama. <p style=text-align:;><b> 16 Oktober 2025 </p>",
             deadline: "Oct 16, 2025 12:19:59" // Countdown diatur ke tanggal terdekat
         }
     ];
@@ -115,7 +122,7 @@
                 countdownEl.querySelector('[data-unit="seconds"]').innerText = seconds;
 
                 // Tandai jika deadline sudah dekat (kurang dari 3 hari)
-                if(days < 3) {
+                if(days < 7) {
                     card.classList.add('soon');
                 }
             }
