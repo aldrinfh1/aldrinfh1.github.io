@@ -12,11 +12,6 @@
             description: "Mencari kosakata yg berhubungan dengan PPKn dan definisikan. <p style=text-align:;><b> 7 Oktober 2025 </p>",
             deadline: "Oct 7, 2025 08:59:59"
         },
-        {
-            title: "Ilmu Negara :<br> Book Chapter / Artikel",
-            description: "Membuat book chapter atau Artikel+jurnal, Makalah+Video.<p style=text-align:;><b> 8 Oktober 2025 </p>",
-            deadline: "Oct 8, 2025 08:59:59"
-        },
     ];
 
     const container = document.querySelector('.task-container');
@@ -97,3 +92,4 @@
 
     // Panggil fungsi sekali saat halaman dimuat
     updateAllCountdowns();
+
