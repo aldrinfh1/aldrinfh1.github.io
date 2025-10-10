@@ -36,7 +36,7 @@
         },
         {
             title: "Ilmu Politik :<br> Review 10 Artikel Ilmiah",
-            description: "5 artikel Indonesia & 5 artikel internasional.<p style=text-align:;><b> 14 Januari 2025 </p>",
+            description: "5 artikel Indonesia & 5 artikel internasional. <br><br> <p style=text-align:;><b> 14 Januari 2025 </p>",
             deadline: "Jan 14, 2026 09:19:59" 
         },
         {

@@ -137,6 +137,13 @@ body {
             font-weight: bold;
             color: #1e3a5f;
         }
+
+        #detik {
+            border-radius: 0 10px 10px 0px;
+        }
+        #hari {
+            border-radius: 10px 0 0 10px;
+        }
     
         .time-box .label {
             font-size: 0.7em;
