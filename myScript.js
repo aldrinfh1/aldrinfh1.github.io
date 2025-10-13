@@ -9,6 +9,11 @@
             deadline: "Oct 16, 2025 06:49:59"       
         },
         {
+            title: "Agama Islam :<br> Mencari Dalil",
+            description: "Mencari Dalil tentang ibadah sehari-hari, ditulis tangan. <br><br> <p style=text-align:;><b> 20 Oktober 2025 </p>",
+            deadline: "Oct 20, 2025 06:49:59"       
+        },
+        {
             title: "Pendidikan Karakter:<br> Membuat Poster",
             description: "Merangkum dan dibuat Poster <br><br> <p style=text-align:;><b>19 Oktober 2025</p>",
             deadline: "Oct 19, 2025 08:29:59" // Countdown diatur ke tanggal terdekat
