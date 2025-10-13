@@ -10,7 +10,7 @@
         },
         {
             title: "Agama Islam :<br> Mencari Dalil",
-            description: "Mencari Dalil tentang ibadah sehari-hari, ditulis tangan. <br><br> <p style=text-align:;><b> 20 Oktober 2025 </p>",
+            description: "Mencari Dalil tentang ibadah sehari-hari, ditulis tangan. <p style=text-align:;><b> 20 Oktober 2025 </p>",
             deadline: "Oct 20, 2025 06:49:59"       
         },
         {
