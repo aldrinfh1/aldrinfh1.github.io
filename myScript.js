@@ -9,19 +9,24 @@
             deadline: "Oct 16, 2025 06:49:59"       
         },
         {
-            title: "Agama Islam :<br> Mencari Dalil",
-            description: "Mencari Dalil tentang ibadah sehari-hari, ditulis tangan. <p style=text-align:;><b> 20 Oktober 2025 </p>",
+            title: "Agama Islam :<br> Menulis Dalil",
+            description: "Menulis  Ayat-ayat al-Qur'an, ditulis tangan. <br><br> <p style=text-align:;><b> 18 Oktober 2025 </p>",
+            deadline: "Oct 18, 2025 14:59:59"       
+        },
+        {
+            title: "Pengantar Ilmu Hukum :<br> Membuat Makalah",
+            description: "membuat makalah dan dipresentasikan. <p style=text-align:;><b> 20 Oktober 2025 </p>",
             deadline: "Oct 20, 2025 06:49:59"       
         },
         {
             title: "Pendidikan Karakter:<br> Membuat Poster",
-            description: "Merangkum dan dibuat Poster <br><br> <p style=text-align:;><b>19 Oktober 2025</p>",
+            description: "Merangkum dan dibuat Poster <br><br> <p style=text-align:;><b>19 November 2025</p>",
             deadline: "Oct 19, 2025 08:29:59" // Countdown diatur ke tanggal terdekat
         },
         {
             title: "Pengantar Pendidikan: Membuat Presentasi",
             description: "Mempresentasikan buku Pengantar Pendidikan. <br> <p style=text-align:;><b>27 Oktober 2025</p>",
-            deadline: "Oct 27, 2025 07:29:59"
+            deadline: "Nov 19, 2025 07:29:59"
         },
         {
             title: "Ilmu Negara :<br> Book Chapter / Artikel",
