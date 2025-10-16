@@ -3,6 +3,12 @@
     // Format Tanggal: "Bulan Hari, Tahun Jam:Menit:Detik" (Bulan dalam Bahasa Inggris)
                const tasks = [
         
+        
+        {
+            title: "Ilmu Negara :<br> Membuat Pertanyaan",
+            description: "buatlah pertanyaan sebanyak mungkin dan dari pertanyaan tersebut silahkan untuk dijawab secera tertulis. <p style=text-align:;><b> 28 Oktober 2025 </p>",
+            deadline: "Oct 28, 2025 11:59:59"       
+        },           
         {
             title: "Pancasila :<br> Analisis Sederhana",
             description: "Menghasilkan Presentasi. <br><br> <p style=text-align:;><b> 16 Oktober 2025 </p>",
