@@ -21,8 +21,8 @@
         },
         {
             title: "Pengantar Ilmu Hukum :<br> Membuat Makalah",
-            description: "membuat makalah dan dipresentasikan. <p style=text-align:;><b> 20 Oktober 2025 </p>",
-            deadline: "Oct 20, 2025 06:49:59"       
+            description: "membuat makalah dan dipresentasikan. <p style=text-align:;><b> 24 November 2025 </p>",
+            deadline: "Nov 24, 2025 06:49:59"       
         },
         {
             title: "Pendidikan Karakter:<br> Membuat Poster",
