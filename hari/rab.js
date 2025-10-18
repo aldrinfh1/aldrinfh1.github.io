@@ -100,6 +100,9 @@
                 countdownEl.querySelector('[data-unit="seconds"]').innerText = seconds;
 
                 // Tandai jika deadline sudah dekat (kurang dari 3 hari)
+                if(days < 12) {
+                    card.classList.add('soon');
+                }
             }
         });
     }
