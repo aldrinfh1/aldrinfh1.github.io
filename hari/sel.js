@@ -13,7 +13,7 @@
         {
             title: "Pengantar Pendidikan: Membuat Presentasi",
             description: "Mempresentasikan buku Pengantar Pendidikan. <br> <p style=text-align:;><b>27 Oktober 2025</p>",
-            deadline: "Nov 19, 2025 07:29:59"
+            deadline: "Oct 27, 2025 07:29:59"
         },
     ];
 

@@ -6,28 +6,28 @@
                const tasks = [
                   
         {
-            title: "Pancasila :<br> Analisis Sederhana",
+            title: "1a.Pancasila :<br> Analisis Sederhana",
             description: "Menghasilkan Presentasi. <br><br> <p style=text-align:;><b> 16 Oktober 2025 </p>",
             deadline: "Oct 16, 2025 06:49:59"       
         },
         
         {
-            title: "Pancasila :<br> Studi Kasus",
+            title: "1b.Pancasila :<br> Studi Kasus",
             description: "Menghasilkan laporan 7-10 halaman dan produk kreatif.<p style=text-align:;><b> 6 November 2025 </p>",
             deadline: "Nov 6, 2025 06:49:59"
         },
         {
-            title: "Pancasila :<br> Riset Sederhana",
+            title: "1c.Pancasila :<br> Riset Sederhana",
             description: "Menghasilkan laporan singkat 5 halaman dan produk kreatif. <p style=text-align:;><b> 18 Desember 2025 </p>",
             deadline: "Dec 18, 2025 06:49:59"       
         },
         {
-            title: "Pengantar Ilmu Hukum :<br> Membuat Makalah",
+            title: "2a.Pengantar Ilmu Hukum :<br> Membuat Makalah",
             description: "membuat makalah dan dipresentasikan. <p style=text-align:;><b> 24 November 2025 </p>",
             deadline: "Nov 24, 2025 06:49:59"       
         },
         {
-            title: "Teori Pembelajaran :<br> Merangkum & Poster",
+            title: "3a.Teori Pembelajaran :<br> Merangkum & Poster",
             description: "Deadline bertahap: 16, 23, & 30 Oktober. Countdown menuju deadline pertama. <p style=text-align:;><b> 16 Oktober 2025 </p>",
             deadline: "Oct 16, 2025 12:19:59" // Countdown diatur ke tanggal terdekat
         },
