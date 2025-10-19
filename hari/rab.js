@@ -5,7 +5,11 @@
 
                const tasks = [
         
-        
+        {
+            title: "Pendidikan Ilmu Sosial :<br> Belum diketahui",
+            description: "Tugas penganti belum diketahui. <p style=text-align:;><b> 28 November 2025 </p>",
+            deadline: "Oct 28, 2025 11:59:59"
+        },
         {
             title: "Ilmu Negara :<br> Membuat Pertanyaan",
             description: "buatlah pertanyaan dari pertanyaan tersebut silahkan untuk dijawab secera tertulis. <p style=text-align:;><b> 28 Oktober 2025 </p>",
