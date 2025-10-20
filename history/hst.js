@@ -5,12 +5,17 @@
 
                const tasks = [
         {
-            title: "Agama Islam :<br> Me-resume kajian",
+            title: "1. Agama Islam :<br> Me-resume kajian",
             description: "<br><br> <p style=text-align:;><b>5 Oktober 2025, pukul 17.00 WIB.</p>",
             deadline: "Oct 5, 2025 17:00:00"
         },
         {
-            title: "B.Indonesia :<br> Mencari 25 kosakata",
+            title: "2. Agama Islam :<br> Menulis Dalil",
+            description: "Menulis  Ayat-ayat al-Qur'an, ditulis tangan. <br><br> <p style=text-align:;><b> 18 Oktober 2025 </p>",
+            deadline: "Oct 18, 2025 14:59:59"       
+        },
+        {
+            title: "1. B.Indonesia :<br> Mencari 25 kosakata",
             description: "Mencari kosakata yg berhubungan dengan PPKn dan definisikan. <p style=text-align:;><b> 7 Oktober 2025 </p>",
             deadline: "Oct 7, 2025 08:59:59"
         },
