@@ -161,7 +161,7 @@
         }
         .soon .time-box {
             background-color: #fae078;
-            border-style: none;
+            border: 1px solid #f1c40f;
             border-color: #f1c40f;
         }
         .soon .time-box .number {
@@ -180,6 +180,7 @@
 
         .task-container{
             margin-top: 20px;
+            
         }
 
         h2 {
