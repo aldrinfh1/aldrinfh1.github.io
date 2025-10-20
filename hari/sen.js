@@ -7,8 +7,8 @@
         
         
         {
-            title: "Agama Islam :<br> Menulis Dalil",
-            description: "Menulis  Ayat-ayat al-Qur'an, ditulis tangan. <br><br> <p style=text-align:;><b> 18 Oktober 2025 </p>",
+            title: "Agama Islam :<br> ",
+            description: "<b> 00 Oktober 2025 </p>",
             deadline: "Oct 18, 2025 14:59:59"       
         },
         {
