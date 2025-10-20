@@ -1,8 +1,12 @@
-body {
+        html {
+        }
+
+        body {
             font-family: 'Poppins', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
             padding: 0px;
             background-color: #181C14;
+            height: 100%;
         }
 
         .headerori {
@@ -15,6 +19,7 @@ body {
             background-color: #FBFFF4;
             border: 1px solid #090a07;
             display: ;
+            height: 100%;
         }
 
         .back {
