@@ -2,6 +2,8 @@
 // --- AREA PENGATURAN TUGAS ---
     // Ubah, tambah, atau hapus tugas Anda di dalam daftar di bawah ini.
     // Format Tanggal: "Bulan Hari, Tahun Jam:Menit:Detik" (Bulan dalam Bahasa Inggris)
+        document.addEventListener('DOMContentLoaded', function(){
+
                const tasks = [
         {
             title: "Akhir Perkuliahan Ganjil <br><br>",
@@ -219,3 +221,4 @@
 
     // Panggil fungsi sekali saat halaman dimuat
     updateAllCountdowns();
+});
