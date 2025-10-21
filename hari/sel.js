@@ -6,9 +6,9 @@
                const tasks = [
         
         {
-            title: "Bahasa Indonesia :<br> ",
-            description: " <p style=text-align:;><b> 00 Oktober 2025 </p>",
-            deadline: "Oct 15, 2025 11:59:59"       
+            title: "Bahasa Indonesia :<br> Tata Bahasa ",
+            description: " Jelaskan menurut pemahaman pribadi masing-masing tentang tata bahasa....<p style=text-align:;><b> 28 Oktober 2025 </p>",
+            deadline: "Oct 28, 2025 06:49:59"       
         },           
         {
             title: "Pengantar Pendidikan: Membuat Presentasi",
