@@ -7,9 +7,9 @@
         
         
         {
-            title: "Agama Islam :<br> ",
-            description: "<b> 00 Oktober 2025 </p>",
-            deadline: "Oct 18, 2025 14:59:59"       
+            title: "Agama Islam :<br> Menulis Ayat Alquran ",
+            description: "<b> 31 Oktober 2025 </p>",
+            deadline: "Oct 31, 2025 14:59:59"       
         },
         {
             title: "Pendidikan Karakter:<br> Membuat Poster",
