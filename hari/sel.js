@@ -7,8 +7,8 @@
         
         {
             title: "Bahasa Indonesia :<br> Tata Bahasa ",
-            description: " Jelaskan menurut pemahaman pribadi masing-masing tentang tata bahasa....<p style=text-align:;><b> 28 Oktober 2025 </p>",
-            deadline: "Oct 28, 2025 06:49:59",
+            description: " Jelaskan faktor-faktor yang menyebabkan bahasa Melayu...<p style=text-align:;><b> 4 November 2025 </p>",
+            deadline: "Nov 4, 2025 06:49:59",
             jam: "06:50 - 08:30 (R.B104)",       
         },           
         {
@@ -31,7 +31,7 @@
 
         card.innerHTML = `
             <div class="jam"><p class="jampa">${task.jam}</p></div>
-            <h2>${task.title}</h2>
+            <div class="titlediv"><h2>${task.title}</h2></div>
             ${descriptionHTML}
             <div class="countdown-wrapper-sel">
                 <div class="countdown" id="countdown-sel-${index}">

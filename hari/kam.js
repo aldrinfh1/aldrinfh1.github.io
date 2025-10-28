@@ -51,7 +51,7 @@
 
         card.innerHTML = `
             <div class="jam"><p class="jampa">${task.jam}</p></div>
-            <h2>${task.title}</h2>
+            <div class="titlediv"><h2>${task.title}</h2></div>
             ${descriptionHTML}
             <div class="countdown-wrapper">
                 <div class="countdown" id="countdown-kam-${index}">
