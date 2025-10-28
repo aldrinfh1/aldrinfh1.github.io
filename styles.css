@@ -287,10 +287,10 @@
         }
 
 @media (min-width: 640px) {
-            .task-card {
+            .task-card, .task-card.soon, .task-card.overdue {
                 display: inline-table;
-                width: 244px;
-                height: 244px;
+                width: 362px;
+                height: 305px;
                 table-layout: auto;
 
             }
