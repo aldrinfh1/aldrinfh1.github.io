@@ -12,7 +12,7 @@
         .jam {
             margin: 0;
             padding: 0;
-            padding-bottom: 5px;
+            padding-bottom: 10px;
             border-bottom: 1px solid #919191;
         }
         .jampa {
@@ -173,7 +173,7 @@
         }
 
         .soon .jam {
-            border-bottom: 1px solid #f1c40f;
+            border-bottom: 1px solid #423500;
             color: #423500;
         }
         .task-card.soon:hover {
@@ -277,7 +277,7 @@
         }
 
         .overdue .jam {
-            border-bottom: 1px solid #ffa8a8;
+            border-bottom: 1px solid #656666;
         }
         .message.overdue-msg {
             color: #e74c3c;
