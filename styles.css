@@ -10,17 +10,17 @@
         }
 
         .jam {
-            display: table-footer-group;
             margin: 0;
-            text-align: right;
             padding: 0;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #919191;
         }
         .jampa {
             margin: 0;
         }
 
         .titlediv {
-            
+            margin-top: 5px;
         }
 
         .headerori {
@@ -160,7 +160,7 @@
 
         }
         .task-card.overdue {
-            border-color: #e74c3c;
+            border-color: #ffa8a8;
             background-color: #fbecec;
         }
         .task-card.overdue:hover {
@@ -170,6 +170,11 @@
             border-color: #f1c40f;
             background-color: #fff0b5;
 
+        }
+
+        .soon .jam {
+            border-bottom: 1px solid #f1c40f;
+            color: #423500;
         }
         .task-card.soon:hover {
         }
@@ -270,8 +275,12 @@
             background-color: #fccaca;
             border: 1px solid #ffa8a8;
         }
+
+        .overdue .jam {
+            border-bottom: 1px solid #ffa8a8;
+        }
         .message.overdue-msg {
-            color: #c0392b;
+            color: #e74c3c;
         }
         .message.completed-msg {
             color: #27ae60;
