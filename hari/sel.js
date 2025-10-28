@@ -8,12 +8,14 @@
         {
             title: "Bahasa Indonesia :<br> Tata Bahasa ",
             description: " Jelaskan menurut pemahaman pribadi masing-masing tentang tata bahasa....<p style=text-align:;><b> 28 Oktober 2025 </p>",
-            deadline: "Oct 28, 2025 06:49:59"       
+            deadline: "Oct 28, 2025 06:49:59",
+            jam: "06:50 - 08:30 (R.B104)",       
         },           
         {
             title: "Pengantar Pendidikan: Membuat Presentasi",
             description: "Mempresentasikan buku Pengantar Pendidikan. <br> <p style=text-align:;><b>27 Oktober 2025</p>",
-            deadline: "Oct 27, 2025 07:29:59"
+            deadline: "Oct 27, 2025 07:29:59",
+            jam: "08:30 - 10:10 (R.B104)",
         },
     ];
 
@@ -28,6 +30,7 @@
         let descriptionHTML = task.description ? `<p>${task.description}</p>` : '';
 
         card.innerHTML = `
+            <div class="jam"><p class="jampa">${task.jam}</p></div>
             <h2>${task.title}</h2>
             ${descriptionHTML}
             <div class="countdown-wrapper-sel">

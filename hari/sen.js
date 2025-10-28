@@ -8,11 +8,13 @@
         
         {
             title: "Agama Islam :<br> Menulis Ayat Alquran ",
+            jam: "06:50 - 08:30 (R.B104)",
             description: "<b> 31 Oktober 2025 </p>",
             deadline: "Oct 31, 2025 14:59:59"       
         },
         {
             title: "Pendidikan Karakter:<br> Membuat Poster",
+            jam : "08:30 - 10:10 (R.B104)",
             description: "Merangkum dan dibuat Poster <br><br> <p style=text-align:;><b>19 November 2025</p>",
             deadline: "Nov 19, 2025 08:29:59" // Countdown diatur ke tanggal terdekat
         }
@@ -29,7 +31,8 @@
         let descriptionHTML = task.description ? `<p>${task.description}</p>` : '';
 
         card.innerHTML = `
-            <h2>${task.title}</h2>
+            <div class="jam"><p class="jampa">${task.jam}</p></div>
+            <div class="titlediv"><h2>${task.title}</h2></div>
             ${descriptionHTML}
             <div class="countdown-wrapper">
                 <div class="countdown" id="countdown-sen-${index}">
@@ -51,6 +54,7 @@
                     </div>
                 </div>
             </div>
+
         `;
         container.appendChild(card);
     });

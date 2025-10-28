@@ -8,28 +8,33 @@
         {
             title: "1a.Pancasila :<br> Analisis Sederhana",
             description: "Menghasilkan Presentasi. <br><br> <p style=text-align:;><b> 16 Oktober 2025 </p>",
-            deadline: "Oct 16, 2025 06:49:59"       
+            deadline: "Oct 16, 2025 06:49:59",
+            jam: "06:50 - 08:30 (R.F401)",       
         },
         
         {
             title: "1b.Pancasila :<br> Studi Kasus",
             description: "Menghasilkan laporan 7-10 halaman dan produk kreatif.<p style=text-align:;><b> 6 November 2025 </p>",
-            deadline: "Nov 6, 2025 06:49:59"
+            deadline: "Nov 6, 2025 06:49:59",
+            jam: "06:50 - 08:30 (R.F401)",
         },
         {
             title: "1c.Pancasila :<br> Riset Sederhana",
             description: "Menghasilkan laporan singkat 5 halaman dan produk kreatif. <p style=text-align:;><b> 18 Desember 2025 </p>",
-            deadline: "Dec 18, 2025 06:49:59"       
+            deadline: "Dec 18, 2025 06:49:59",
+            jam: "06:50 - 08:30 (R.B104)",       
         },
         {
             title: "2a.Pengantar Ilmu Hukum :<br> Membuat Makalah",
             description: "membuat makalah dan dipresentasikan. <p style=text-align:;><b> 24 November 2025 </p>",
-            deadline: "Nov 24, 2025 06:49:59"       
+            deadline: "Nov 24, 2025 06:49:59",
+            jam: "10:10 - 11:50 (R.B104)",       
         },
         {
             title: "3a.Teori Pembelajaran :<br> Merangkum & Poster",
             description: "Deadline bertahap: 16, 23, & 30 Oktober. Countdown menuju deadline pertama. <p style=text-align:;><b> 16 Oktober 2025 </p>",
-            deadline: "Oct 16, 2025 12:19:59" // Countdown diatur ke tanggal terdekat
+            deadline: "Oct 16, 2025 12:19:59",
+            jam: "12:30 - 14:10 (R.B104)",
         },
 
     ];
@@ -45,6 +50,7 @@
         let descriptionHTML = task.description ? `<p>${task.description}</p>` : '';
 
         card.innerHTML = `
+            <div class="jam"><p class="jampa">${task.jam}</p></div>
             <h2>${task.title}</h2>
             ${descriptionHTML}
             <div class="countdown-wrapper">

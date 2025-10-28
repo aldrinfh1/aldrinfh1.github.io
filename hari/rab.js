@@ -9,34 +9,40 @@
         {
             title: "Ilmu Negara :<br> Membuat Pertanyaan",
             description: "buatlah pertanyaan dari pertanyaan tersebut silahkan untuk dijawab secera tertulis. <p style=text-align:;><b> 28 Oktober 2025 </p>",
-            deadline: "Oct 28, 2025 11:59:59"       
+            deadline: "Oct 28, 2025 11:59:59",
+            jam: "06:50 - 08:30 (R.B104)",       
         },           
         {
             title: "Ilmu Negara :<br> Book Chapter / Artikel",
             description: "Membuat book chapter atau Artikel+jurnal, Makalah+Video.<p style=text-align:;><b> 6 November 2025 </p>",
-            deadline: "Nov 6, 2025 08:59:59"
+            deadline: "Nov 6, 2025 08:59:59",
+            jam: "06:50 - 08:30 (R.B104)",
         },
         {
             title: "Ilmu Politik :<br> Membuat Poster",
             description: "Poster membahas isu/problematika yang relevan dengan konsep teoritis ilmu politik.<p style=text-align:;><b> 29 Oktober 2025 </p>",
-            deadline: "Oct 29, 2025 09:19:59"
+            deadline: "Oct 29, 2025 09:19:59",
+            jam: "09:20 - 11:00 (R.F401)",
         },
         {
             title: "Ilmu Politik :<br> Review 10 Artikel Ilmiah",
             description: "5 artikel Indonesia & 5 artikel internasional. <br><br> <p style=text-align:;><b> 14 Januari 2025 </p>",
-            deadline: "Jan 14, 2026 09:19:59" 
+            deadline: "Jan 14, 2026 09:19:59",
+            jam: "09:20 - 11:00 (R.F401)",
         },
 
         {
             title: "Pendidikan Ilmu Sosial :<br> Membuat Pertanyaan",
             description: "buatlah pertanyaan dari pertanyaan tersebut silahkan untuk dijawab secera tertulis. <p style=text-align:;><b> 28 November 2025 </p>",
-            deadline: "Oct 28, 2025 11:59:59"
+            deadline: "Oct 28, 2025 11:59:59",
+            jam: "12:30 - 14:10 (R.F401)",
         },
         
         {
             title: "Pendidikan Ilmu Sosial :<br> Latar Belakang & Rumusan",
             description: "Membuat latar belakang dan rumusan dari judul yang sudah ditentukan.<p style=text-align:;><b> 19 November 2025 </p>",
-            deadline: "Nov 19, 2025 12:30:59"
+            deadline: "Nov 19, 2025 12:30:59",
+            jam: "12:30 - 14:10 (R.F401)",
         },
     ];
 
@@ -51,6 +57,7 @@
         let descriptionHTML = task.description ? `<p>${task.description}</p>` : '';
 
         card.innerHTML = `
+            <div class="jam"><p class="jampa">${task.jam}</p></div>
             <h2>${task.title}</h2>
             ${descriptionHTML}
             <div class="countdown-wrapper">
