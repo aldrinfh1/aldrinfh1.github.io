@@ -9,6 +9,20 @@
             height: 100%;
         }
 
+        .jam {
+            display: table-footer-group;
+            margin: 0;
+            text-align: right;
+            padding: 0;
+        }
+        .jampa {
+            margin: 0;
+        }
+
+        .titlediv {
+            
+        }
+
         .headerori {
             background-color: #181C14;
         }
