@@ -9,13 +9,13 @@
             title: "Bahasa Indonesia :<br> Tata Bahasa ",
             description: " Jelaskan faktor-faktor yang menyebabkan bahasa Melayu...<p style=text-align:;><b> 4 November 2025 </p>",
             deadline: "Nov 4, 2025 06:49:59",
-            jam: "06:50 - 08:30 (R.B104)",       
+            jam: "1) 06:50 - 08:30 (R.B104)",       
         },           
         {
             title: "Pengantar Pendidikan: Membuat Presentasi",
             description: "Mempresentasikan buku Pengantar Pendidikan. <br> <p style=text-align:;><b>27 Oktober 2025</p>",
             deadline: "Oct 27, 2025 07:29:59",
-            jam: "08:30 - 10:10 (R.B104)",
+            jam: "2) 08:30 - 10:10 (R.B104)",
         },
     ];
 
