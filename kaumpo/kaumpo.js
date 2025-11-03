@@ -11,7 +11,7 @@
             deadline: "Jan 16, 2026 23:59:59"
         },
         {
-            title: "Pelaksanaan Wisuda ke-59/60 <br><br>",
+            title: "Pelaksanaan Wisuda ke-59/60",
             description: "Jadwal pelaksanaan wisuda untuk periode 59/60.<p style='margin-top:10px;'><b>25 Oktober 2025</b></p>",
             deadline: "Oct 25, 2025 23:59:59"
         },
@@ -26,12 +26,12 @@
             deadline: "Jan 23, 2026 23:59:59"
         },
         {
-            title: "Batas Akhir Input Nilai UAS Ganjil <br><br>",
+            title: "Batas Akhir Input Nilai UAS Ganjil",
             description: "Batas akhir bagi dosen untuk input nilai Uji Kompetensi Akhir Semester. <p style='margin-top:10px;'><b>28 Januari 2026</b></p>",
             deadline: "Jan 28, 2026 23:59:59"
         },
         {
-            title: "Terakhir Input Nilai Skripsi Ganjil <br><br>",
+            title: "Terakhir Input Nilai Skripsi Ganjil",
             description: "Batas akhir untuk input nilai Skripsi. <br><br> <p style='margin-top:10px;'><b>3 Februari 2026</b></p>",
             deadline: "Feb 3, 2026 23:59:59"
         },
@@ -43,7 +43,7 @@
             deadline: "Oct 30, 2025 23:59:59"
         },
         {
-            title: "Akhir Validasi oleh Kaprodi (CP_1) <br><br>",
+            title: "Akhir Validasi oleh Kaprodi (CP_1)",
             description: "Pelaporan PD DIKTI: Batas akhir validasi data oleh Kaprodi.<p style='margin-top:10px;'><b>1 - 15 Oktober 2025</b></p>",
             deadline: "Oct 15, 2025 23:59:59"
         },
@@ -80,28 +80,28 @@
             deadline: "Feb 19, 2026 23:59:59"
         },
         {
-            title: "Laporan Data Wisuda Genap <br><br>",
+            title: "Laporan Data Wisuda Genap",
             description: "Pelaporan data wisuda ke LLDIKTI 7. <br><br><p style='margin-top:10px;'><b>27 Februari 2026</b></p>",
             deadline: "Feb 27, 2026 23:59:59"
         },
         {
-            title: "Pendaftaran Wisuda Genap <br><br>",
+            title: "Pendaftaran Wisuda Genap",
             description: "Periode pendaftaran wisuda semester genap. <br><br><p style='margin-top:10px;'><b>11 - 21 Februari 2026</b></p>",
             deadline: "Feb 21, 2026 23:59:59",
             link: "https://example.com/pendaftaran-wisuda"
         },
         {
-            title: "Akhir Cuti Akademik Genap <br><br>",
+            title: "Akhir Cuti Akademik Genap",
             description: "Batas akhir pengajuan cuti akademik semester genap.<p style='margin-top:10px;'><b>2 Februari - 16 Maret 2026</b></p>",
             deadline: "Mar 16, 2026 23:59:59"
         },
         {
-            title: "Akhir Perkuliahan Genap <br><br>",
+            title: "Akhir Perkuliahan Genap",
             description: "Hari terakhir kegiatan perkuliahan untuk semester genap.<p style='margin-top:10px;'><b>2 Maret - 26 Juni 2026</b></p>",
             deadline: "Jun 26, 2026 23:59:59"
         },
         {
-            title: "Pelaksanaan KKN Reguler <br><br>",
+            title: "Pelaksanaan KKN Reguler",
             description: "Jadwal pelaksanaan Kuliah Kerja Nyata (KKN) Reguler.<p style='margin-top:10px;'><b>1 - 30 Agustus 2026</b></p>",
             deadline: "Aug 30, 2026 23:59:59"
         },
@@ -111,12 +111,12 @@
             deadline: "Aug 30, 2026 23:59:59"
         },
         {
-            title: "KKN Internasional <br><br>",
+            title: "KKN Internasional",
             description: "Jadwal pelaksanaan KKN Internasional. <br><br> <p style='margin-top:10px;'><b>1 - 30 Agustus 2026</b></p>",
             deadline: "Aug 30, 2026 23:59:59"
         },
         {
-            title: "Pelaksanaan Wisuda Genap <br><br>",
+            title: "Pelaksanaan Wisuda Genap",
             description: "Jadwal pelaksanaan wisuda semester genap. <br><br><p style='margin-top:10px;'><b>25 April 2026</b></p>",
             deadline: "Apr 25, 2026 23:59:59"
         },
@@ -131,12 +131,12 @@
             deadline: "Jul 10, 2026 23:59:59"
         },
         {
-            title: "Batas Akhir Input Nilai UAS Genap <br><br>",
+            title: "Batas Akhir Input Nilai UAS Genap ",
             description: "Batas akhir bagi dosen untuk input nilai Uji Kompetensi Akhir Semester.<p style='margin-top:10px;'><b>15 Juli 2026</b></p>",
             deadline: "Jul 15, 2026 23:59:59"
         },
         {
-            title: "Terakhir Input Nilai Skripsi Genap <br><br>",
+            title: "Terakhir Input Nilai Skripsi Genap",
             description: "Batas akhir untuk input nilai Skripsi.<br><br><p style='margin-top:10px;'><b>31 Juli 2026</b></p>",
             deadline: "Jul 31, 2026 23:59:59"
         }
